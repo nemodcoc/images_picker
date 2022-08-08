@@ -26,7 +26,7 @@ public class Utils {
                 .isSingleDirectReturn(false)
                 .isWeChatStyle(true)
                 .isCamera(false)
-                .isZoomAnim(true)
+                .isZoomAnim(false)
                 .isGif(true)
                 .isEnableCrop(false)
                 .isCompress(false)
